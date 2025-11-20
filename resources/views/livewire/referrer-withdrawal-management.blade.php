@@ -205,7 +205,7 @@
                     <th>Email</th>
                     <th>Brand</th>
                     <th>Amount</th>
-                    <th>Crypto</th>
+                    <th>Crypto</th> 
                     <th>Chain</th>
                     <th>Wallet</th>
                     <th>Status</th>
